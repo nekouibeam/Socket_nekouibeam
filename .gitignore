@@ -103,5 +103,7 @@ venv.bak/
 # mypy
 .mypy_cache/
 
-ClientHandler.class
-HttpServer.class
+# Java class files
+*.class
+
+upload_test_retry.txt
